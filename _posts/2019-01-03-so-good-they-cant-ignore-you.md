@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Sách "So good they can't ignore you" theo góc nhìn của tôi!
-image: /img/Mar_2019/so_good_they_.jpeg
 tags: [books]
 ---
 
-![](/img/Mar_2019/so_good_they_.jpeg)
+
 
 Sẽ không có một công thức cụ thể nào để một người có thể theo đuổi nó và lập tức trở nên thành công. Một trong những quan điểm mà người ta hay thường nói đó là "Hãy theo đuổi đam mê, thành công sẽ theo đuổi bạn" và tôi vẫn theo đuổi quan điểm này cho đến khi... tôi đọc "So good they can't ignore you" do tác giả Cal Newport viết. Câu chuyện diễn ra như thế nào?
+
+![](/img/Mar_2019/so_good_they_.jpeg)
 
 ## 1) Don't Follow Your Passion
 

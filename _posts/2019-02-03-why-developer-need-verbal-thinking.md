@@ -4,6 +4,8 @@ title: Tại sao một developer cần phải verbal thinking?
 tags: [softskill]
 ---
 
+Đối với một lập trình viên, ngoài chuyên môn ra thì kỹ năng giao tiếp cũng là một yếu tố then chốt ảnh hưởng đến con đường thành công của anh ấy,..
+
 ![](/img/Mar_2019/developer_verbal_thinking.jpeg)
 
 **Verbal thinking:** được định nghĩa là khả năng sử dụng ngôn ngữ để giao tiếp một cách trực tiếp đến những người xung quanh.
