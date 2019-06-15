@@ -24,7 +24,7 @@ description: Technical blog
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Project: "projects"
+  Projects: "projects"
   Archive: "archive"
   #More:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
