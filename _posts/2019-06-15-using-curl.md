@@ -9,23 +9,23 @@ API (Application Programing Interface) là một lớp trung gian giữa Front-e
 
 ## Các Option phổ biến
 
-`-#, --progress-bar`: Thiết lập cho curl hiển thị một progress bar đơn giản thay vì nhiều thông tin liên quan khác.
-`-b, --cookie <name=data>`: Hỗ trợ cookie trong request. Nếu không có `=`, thì thay bằng file cookie, (xem `-c`).
-`-c, --cookie-jar <file name>`: File dùng để lưu trữ cookie trả về.
-`-d, --data <data>`: Gửi kèm dữ liệu trong POST request.
-`-f, --fail`: Không trả về  HTML error.
-`-F, --form <name=content>`: Submit dữ liệu form.
-`-H, --header <header>`: Thiết lập header cho request.
-`-i, --include`: Bao gồm header trong output.
-`-I, --head`: Chỉ lấy thông tin header.
-`-k, --insecure`: Cho phép kết nối **insecure** thành công.
-`-L, --location`: Cho phép chuyển trang.
-`-o, --output <file>`: Ghi kết quả ra output `<file>` được đặt tên. Có thể dùng `--create-dirs` để tạo đường dẫn.
-`-O, --remote-name`: Ghi ra output đến file có tên tương tự ở remote.
-`-s, --silent`: Chế độ silent. Dùng với `-S` để chỉ ra errors.
-`-v, --verbose`: Cung cấp nhiều thông tin cho việc debug.
-`-w, --write-out <format>`: Thiết lập cho curl hiển thị thông tin trên stdout sau khi hoàn tất transfer. Xem `man curl` để biết chi tiết. Có thể bắt curl thêm newline vào output: `-w "\n"` (can add to `~/.curlrc`).
-`-X, --request`: Gửi kèm yêu cầu.
+* `-#, --progress-bar`: Thiết lập cho curl hiển thị một progress bar đơn giản thay vì nhiều thông tin liên quan khác.
+* `-b, --cookie <name=data>`: Hỗ trợ cookie trong request. Nếu không có `=`, thì thay bằng file cookie, (xem `-c`).
+* `-c, --cookie-jar <file name>`: File dùng để lưu trữ cookie trả về.
+* `-d, --data <data>`: Gửi kèm dữ liệu trong POST request.
+* `-f, --fail`: Không trả về  HTML error.
+* `-F, --form <name=content>`: Submit dữ liệu form.
+* `-H, --header <header>`: Thiết lập header cho request.
+* `-i, --include`: Bao gồm header trong output.
+* `-I, --head`: Chỉ lấy thông tin header.
+* `-k, --insecure`: Cho phép kết nối **insecure** thành công.
+* `-L, --location`: Cho phép chuyển trang.
+* `-o, --output <file>`: Ghi kết quả ra output `<file>` được đặt tên. Có thể dùng `--create-dirs` để tạo đường dẫn.
+* `-O, --remote-name`: Ghi ra output đến file có tên tương tự ở remote.
+* `-s, --silent`: Chế độ silent. Dùng với `-S` để chỉ ra errors.
+* `-v, --verbose`: Cung cấp nhiều thông tin cho việc debug.
+* `-w, --write-out <format>`: Thiết lập cho curl hiển thị thông tin trên stdout sau khi hoàn tất transfer. Xem `man curl` để biết chi tiết. Có thể bắt curl thêm newline vào output: `-w "\n"` (can add to `~/.curlrc`).
+* `-X, --request`: Gửi kèm yêu cầu.
 
 ## POST
 
