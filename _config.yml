@@ -17,15 +17,14 @@ baseurl: ""
 title: Thoai Nguyen
 
 # Short description of your site
-description: Stay hungry Stay foolish! _steve jobs_
+description: Technical blog
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Categories: "categories"
-  Project: "project"
+  Project: "projects"
   Archive: "archive"
   #More:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -66,14 +65,14 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Thoai Nguyen
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#  rss: true
   email: "thoaikhmt@gmail.com"
   facebook: thoai.nguyenhuynh.3
   github: thoainguyen

@@ -2,6 +2,8 @@
 layout: post
 title: Test markdown
 subtitle: Each post also has a subtitle
+image: /img/hello_world.jpeg
+bigimg: /img/path.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
