@@ -39,7 +39,7 @@ API (Application Programing Interface) là một lớp trung gian giữa Front-e
 
 `-v, --verbose`: Cung cấp nhiều thông tin cho việc debug.
 
-`-w, --write-out <format>`: Thiết lập cho curl hiển thị thôn tin trên stdout sau khi hoàn tất transfer. Xem `man curl` để biết chi tiết. Có thể bắt curl thêm newline vào output: `-w "\n"` (can add to `~/.curlrc`).
+`-w, --write-out <format>`: Thiết lập cho curl hiển thị thông tin trên stdout sau khi hoàn tất transfer. Xem `man curl` để biết chi tiết. Có thể bắt curl thêm newline vào output: `-w "\n"` (can add to `~/.curlrc`).
         
 `-X, --request`: Gửi kèm yêu cầu.
 
@@ -59,13 +59,11 @@ Nhiều API có thể chấp nhận cả hai, do đó nếu dùng `curl` tại c
 
 Để gửi dữ liệu với POST hoặc PUT requests, có hai lựa chọn:
 
-For sending data with POST and PUT requests, these are common `curl` options:
+* kiểu request
+  * `-X POST`
+  * `-X PUT`
 
- * kiểu request
-   * `-X POST`
-   * `-X PUT`
-
- * kiểu dữ liệu
+* kiểu dữ liệu
   * `-H "Content-Type: application/x-www-form-urlencoded"`
   * `-H "Content-Type: application/json"`
  
@@ -73,17 +71,17 @@ For sending data with POST and PUT requests, these are common `curl` options:
   * form urlencoded: `-d "param1=value1&param2=value2"` or `-d @data.txt`
   * json: `-d '{"key1":"value1", "key2":"value2"}'` or `-d @data.json`
   
-## Examples
+## Ví dụ
 
 ### POST application/x-www-form-urlencoded
 
 `application/x-www-form-urlencoded` là mặc định:
 
-    curl -d "param1=value1&param2=value2" -X POST http://localhost:3000/data
+  curl -d "param1=value1&param2=value2" -X POST http://localhost:3000/data
 
-explicit:
+cụ thể:
 
-    curl -d "param1=value1&param2=value2" -H "Content-Type: application/x-www-form-urlencoded" -X POST http://localhost:3000/data
+  curl -d "param1=value1&param2=value2" -H "Content-Type: application/x-www-form-urlencoded" -X POST http://localhost:3000/data
 
 với file dữ liệu
  
