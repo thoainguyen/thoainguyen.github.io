@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sách "So good they can't ignore you" theo góc nhìn của tôi!
-tags: [books,softskill]
+tags: [softskill]
 ---
 
 
