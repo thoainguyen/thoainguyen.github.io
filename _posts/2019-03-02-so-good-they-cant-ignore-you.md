@@ -30,11 +30,10 @@ Sự thật tôi hơi bất ngờ với quan điểm này của tác giả, bở
 
 Điều này nói rằng bạn phải có tinh thần tự xác định, nghĩa là bạn phải biết mình đang làm và cần làm gì để đạt được mục tiêu. Nếu bạn hoàn toàn có thể kiếm soát công việc mình đang làm thì bạn sẽ cảm thấy thật sự thoải mái trong công việc, có những tính chất sau mà chúng ta cần đạt được :
 
-**Autonomy: (tính kiểm soát)** một cảm giác bạn có thể kiểm soát công việc trong mọi thời điểm và hành động có chủ ý.
+* **Autonomy: (tính kiểm soát)** một cảm giác bạn có thể kiểm soát công việc trong mọi thời điểm và hành động có chủ ý.
+* **Competence: (tính năng lực)** một cảm giác mà bạn làm tốt những gì bạn đang làm.
 
-**Competence: (tính năng lực)** một cảm giác mà bạn làm tốt những gì bạn đang làm.
-
-**Relatedness: (tính tương tác)** một cảm giác bạn có thể gắn kết với những người xung quanh.
+* **Relatedness: (tính tương tác)** một cảm giác bạn có thể gắn kết với những người xung quanh.
 
 Những tính chất trên giúp bạn có thể kiểm soát công việc mình đang làm, tuy nhiên cũng có các bẫy liên quan đến việc mình tự nhận là kiểm soát tốt để rồi nhận lấy những thất bại khi không đánh giá đúng vấn đề, các bẫy này là:
 
